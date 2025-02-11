@@ -1,4 +1,4 @@
-title: Researcher
+title: Личный сайт Glebun08'а
 url: "https://ankitsultana.com"
 baseurl: ""
 markdown: kramdown
@@ -15,7 +15,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Обо мне"
    link: "index"
- - name: "Contact"
+ - name: "Контакт со мной"
    link: "contact"
