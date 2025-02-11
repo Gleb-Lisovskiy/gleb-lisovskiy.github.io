@@ -1,8 +1,6 @@
 title: Researcher
-url: ""
+url: "https://ankitsultana.com"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher@gem
-plugins: jekyll-remote-theme
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -11,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Владелец темы сайта Ankit Sultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
