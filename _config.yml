@@ -17,5 +17,5 @@ sass:
 nav:
  - name: "Обо мне"
    link: "index"
- - name: "Контакт со мной"
-   link: "contact"
+ - name: "Контакт и другое"
+   link: "other"
