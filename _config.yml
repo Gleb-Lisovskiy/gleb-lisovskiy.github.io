@@ -1,9 +1,8 @@
 title: Researcher
 url: ""
 baseurl: "/researcher"
-plugins:
-- jekyll-remote-theme
 remote_theme: ankitsultana/researcher@gem
+plugins: jekyll-remote-theme
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
