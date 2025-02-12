@@ -6,7 +6,7 @@ is_contact: true
 ## Контакт со мной
 
 1. [Telegram](https://t.me/Glebun08)
-2. [Discord](https://discordapp.com/users/805832764438872135 "Ник: Glebun08")
+[img][img1] [Discord](https://discordapp.com/users/805832764438872135 "Ник: Glebun08")
 
 ## Другие сайты
 
@@ -30,3 +30,5 @@ is_contact: true
 В режиме нужно быть осторожным, внимательным и действовать скрытно. Молитесь, что они вас не заметили.
 
 Нужно соблюдать почти каждый свой шаг и также постоянно прислушиваться к каждому звуку.
+
+[img1]: https://img.icons8.com/?size=32&id=30998&format=png&color=000000
