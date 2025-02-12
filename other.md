@@ -6,7 +6,7 @@ is_contact: true
 ## Контакт со мной
 
 1. [Telegram](https://t.me/Glebun08)
-[img][img1] [Discord](https://discordapp.com/users/805832764438872135 "Ник: Glebun08")
+![img][img1] [Discord](https://discordapp.com/users/805832764438872135 "Ник: Glebun08")
 
 ## Другие сайты
 
