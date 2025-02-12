@@ -13,7 +13,7 @@ body {
     margin: 0;
     font-family: "Rubik";
 	background-color: #212121;
-	color: #ffffff;
+	color: $text-color;
     height: 100%;
 }
 a {
@@ -36,7 +36,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #ffffff;
+    color: $text-color;
     display: inline-block;
 }
 .navbar {
