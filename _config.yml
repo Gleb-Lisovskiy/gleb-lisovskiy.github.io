@@ -1,7 +1,7 @@
 title: Личный сайт Glebun08'а
 url: "https://github.com/Gleb-Lisovskiy"
 baseurl: ""
-markdown: kramdown
+markdown: commonmark
 #ins_logo: "./glebun08.jpg"
 
 tracking_id: #
