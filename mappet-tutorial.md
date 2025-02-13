@@ -33,7 +33,7 @@ layout: default
 
 После того когда вы создали скрипт, в скрипте видите это:
 
-```js
+```javascript
 function main(c)
 {
     // Code...
