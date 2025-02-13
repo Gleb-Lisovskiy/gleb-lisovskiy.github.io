@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="glebun08.jpg">
 
-Здравия желаю господа
-Меня зовут Глеб и мне 16 лет.
+Здравия желаю господа, меня зовут Глеб и мне 16 лет.
 
 Занимаюсь программированием 2 года в моде Mappet (Javascript) для Minecraft.
 
