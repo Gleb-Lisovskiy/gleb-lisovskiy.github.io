@@ -19,3 +19,5 @@ nav:
    link: "index"
  - name: "Контакт и другое"
    link: "other"
+ - name: "Памятник"
+   link: "monument"
