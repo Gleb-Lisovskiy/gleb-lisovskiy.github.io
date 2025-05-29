@@ -4,7 +4,7 @@ layout: default
 
 # Памятник
 
-![img]({{ site.base_url }}/kot.png)
+![img]({{ site.base_url }}/kot.jpg)
 
 То что видите, это мой кот который прожил со мной 6 лет, что и столько же лет ему.  
 
