@@ -4,7 +4,7 @@ layout: default
 
 # Памятник
 
-![img]({{ site.base_url }}/kot.jpg)
+![img]({{ site.base_url }}/kot.png)
 
 **Рыжий 2019-2025**
 =
@@ -32,4 +32,4 @@ layout: default
 
 
 
-***(Обновлёно 29.05.2025)***  
+***(Обновлёно 30.05.2025)***  
