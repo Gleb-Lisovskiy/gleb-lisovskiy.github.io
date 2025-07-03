@@ -16,18 +16,18 @@ is_contact: true
 - [Steam](https://steamcommunity.com/id/Glebun08)  
 - [Roblox](https://www.roblox.com/users/3574577262/profile)  
 
-- [Мой вики Фандом](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8) (Временно отложен)
+- [Мой вики Фандом](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8) (Работа возобновлёна)
 - [Мой творческий телеграм канал](https://t.me/glebstorage) (Скорее всего уже заброшен.)
 
 
 
-# Проект **INFCTD_ Improved**
+# Проект **INFCTD_ Improved, (Работа остановлена, некоторые проблемы)**
 Это улучшенный режим Minecraft'а от [Nazzy](https://youtube.com/@nazzychannel?si=9bh5aHxd3nXe46Vh).  
 
 Чтобы ознакомится с режимом INFCTD_, посмотрите это [видео](https://youtu.be/bfb2T1Wcxdc?si=upzNGQTE9_sPd2fR) или другие видео по этой режиму.  
 
 Отличие от оригинала, это:  
-{
+{  
 	Максимум игроков на сервере: 13
 
 	Переделанная система голосовании что, будет меньше багов и проблем.
@@ -82,5 +82,5 @@ is_contact: true
 
 
 
-***(Обновлёно 29.05.2025)***  
+***(Обновлёно 03.07.2025)***  
   
