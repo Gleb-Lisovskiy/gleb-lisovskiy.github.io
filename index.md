@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**The English translation will be available soon.**
+
 ## Обо мне
 
 <img class="profile-picture" src="glebun08.jpg">
