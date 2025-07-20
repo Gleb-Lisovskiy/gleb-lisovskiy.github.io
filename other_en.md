@@ -7,8 +7,8 @@ is_contact: true
 
 ## Contact me
 
-- [Telegram](https://t.me/Glebun08 )
-- [Discord](https://discordapp.com/users/805832764438872135 "Nickname: Glebun08")
+- [Telegram](https://t.me/Glebun08)
+- [Discord](https://discordapp.com/users/805832764438872135) ("Nickname: Glebun08")
 
 
 
@@ -18,8 +18,8 @@ is_contact: true
 - [Steam](https://steamcommunity.com/id/Glebun08)  
 - [Roblox](https://www.roblox.com/users/3574577262/profile)  
 
-- [My Wiki Fandom](https://the-madness-of-drones .fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8 ) (Work resumed)
-- [My creative telegram channel](https://t.me/glebstorage (Most likely already abandoned.)
+- [My Wiki Fandom](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8) (Work resumed)
+- [My creative telegram channel](https://t.me/glebstorage) (Most likely already abandoned.)
 
 
 
