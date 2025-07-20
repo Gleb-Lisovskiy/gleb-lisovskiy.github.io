@@ -22,7 +22,7 @@
     {% endif %}
     <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Rubik:400,700' rel='stylesheet' type='text/css'>
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title_en }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     {% if site.favicon %}
         <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
@@ -33,7 +33,7 @@
     {% endif %}
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="{{ desc }}">
-    <meta name="og:title" content="{{ site.title }}">
+    <meta name="og:title" content="{{ site.title_en }}">
     <meta name="og:url" content="{{ url }}">
     <meta name="og:type" content="article">
     {% if site.og_image %}
@@ -44,7 +44,7 @@
     {% endif %}
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:title" content="{{ site.title_en }}">
     <meta name="twitter:description" content="{{ desc }}">
     <meta name="twitter:url" content="{{ url }}">
     {% if site.twitter_image %}
@@ -59,7 +59,7 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title_en }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
 						<li class="alignable pull-left nav-list"><a href="{{ x.link_en  }}">{{ x.name_en }}</a>
