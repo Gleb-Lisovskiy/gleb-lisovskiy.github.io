@@ -19,11 +19,14 @@ nav:
  - name: "Обо мне"
    name_en: "About me "
    link: "index"
+   link_en: "index_en"
  - name: "Контакт и другое"
    name_en: "Contact and other"
    link: "other"
+   link_en: "other_en"
  - name: "Памятник"
    name_en: "Monument"
    link: "monument"
+   link_en: "monument_en"
    
 
