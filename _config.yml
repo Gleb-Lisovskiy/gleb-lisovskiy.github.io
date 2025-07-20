@@ -17,10 +17,13 @@ sass:
 
 nav:
  - name: "Обо мне"
+   name_en: "About me "
    link: "index"
  - name: "Контакт и другое"
+   name_en: "Contact and other"
    link: "other"
  - name: "Памятник"
+   name_en: "Monument"
    link: "monument"
    
 
