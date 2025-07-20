@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
 <head>
     <title>Glebun08's Personal website</title>
 
@@ -61,8 +61,8 @@
             {% endif %}
             <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
-                {% for x in site.nav_en %}
-						<li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                {% for x in site.nav %}
+						<li class="alignable pull-left nav_en-list"><a href="{{ x.link }}">{{ x.name }}</a>
 							{% if forloop.last == false %}
 								
 								/
@@ -82,7 +82,7 @@
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: $text-color"><small>{{ site.footer_text }}</small></a>
+                    <a href="{{ site.footer_url }}" style="color: $text-color"><small>{{ site.footer_en_text }}</small></a>
                     </p>
                 {% endif %}
             </div>
