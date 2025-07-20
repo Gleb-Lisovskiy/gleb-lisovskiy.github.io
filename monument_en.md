@@ -8,7 +8,7 @@ layout: eng
 
 ![img]({{ site.base_url }}/kot.png)
 
-**Red-haired 2019-2025**
+**Ryzhiy (Red-haired) 2019-2025**
 =
 
 This is my cat who has lived with me for 6 years, which is the same age as him.  
