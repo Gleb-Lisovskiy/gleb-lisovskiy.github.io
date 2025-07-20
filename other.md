@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+*[Switch to English]({{ site.base_url }}/other_en)*
+
 ## Контакт со мной
 
 - [Telegram](https://t.me/Glebun08)

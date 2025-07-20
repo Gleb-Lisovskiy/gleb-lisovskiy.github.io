@@ -21,3 +21,11 @@ nav:
    link: "other"
  - name: "Памятник"
    link: "monument"
+   
+ nav_en:
+ - name: "About me
+   link: "index_en"
+ - name: "Contact and other"
+   link: "other_en"
+ - name: "Monument"
+   link: "monument_en"

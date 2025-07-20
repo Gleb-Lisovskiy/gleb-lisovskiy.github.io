@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*[Switch to English]({{ site.base_url }}/monument_en)*
+
 # Памятник
 
 ![img]({{ site.base_url }}/kot.png)

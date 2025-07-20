@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**The English translation will be available soon.**
+*[Switch to English]({{ site.base_url }}/index_en)*
 
 ## Обо мне
 
@@ -42,4 +42,4 @@ layout: default
 
 
 
-***(Обновлёно 03.07.2025)***  
+***(Обновлёно 20.07.2025)***  
