@@ -28,7 +28,7 @@ Every time I go to feed the cats, the Redhead just screams, wants delicious jell
 **Died at 1:10 p.m. on March 29. 2025 and being close to it.**  
 **Cause: Anemia**
 
-**Rest in peace, Red.**
+**Rest in peace, Ryzhiy.**
 
 
 
