@@ -31,7 +31,7 @@ I like to animate more than create models.
 I love black and white styles.
 
 Atmosphere designer.  
-Mod collector version 1.20.1, to make it clearer, I know how to make builds for minecraft on version 1.20.1, knowing more than 200+ mods and which of them may conflict with each other.  
+Mod collector version 1.20.1, to make it clearer, I know how to make builds for minecraft on version 1.20.1, knowing 200+ mods and which of them may conflict with each other.  
 And I don't always know how to put commas.  
 
 A fan of the classic Call of Duty Zombies.  
