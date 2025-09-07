@@ -8,8 +8,6 @@ layout: default
 
 <img class="profile-picture" src="glebun08.jpg">
 
-(С днём рождения меня!)
-
 Здравия желаю господа, меня зовут Глеб и мне 17 лет.
 
 Являюсь обычным программистом мода Mappet (JavaScript) ~~3~~ полтара года в Minecraft.  

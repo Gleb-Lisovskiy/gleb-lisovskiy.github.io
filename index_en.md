@@ -10,8 +10,6 @@ layout: eng
 
 **Please note that there may be problems with the translation.**
 
-(Happy birthday to me!)
-
 Hello, my name is Gleb and I am 17 years old.
 
 I am an ordinary programmer of the Mappet (JavaScript) mod ~~3~~ half a year in Minecraft.  
