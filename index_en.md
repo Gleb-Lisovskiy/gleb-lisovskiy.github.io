@@ -10,7 +10,9 @@ layout: eng
 
 **Please note that there may be problems with the translation.**
 
-Hello, my name is Gleb and I am 16 years old.
+(Happy birthday to me!)
+
+Hello, my name is Gleb and I am 17 years old.
 
 I am an ordinary programmer of the Mappet (JavaScript) mod ~~3~~ half a year in Minecraft.  
 I am currently working on the project **The Madness Of Drones**.
@@ -44,4 +46,4 @@ A fan of the series Murder Drones, the character of V and Lizzie.
 
 
 
-***(Updated 20.07.2025)***
+***(Updated 07.09.2025)***
