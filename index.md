@@ -6,7 +6,7 @@ layout: default
 
 ## Обо мне
 
-<img class="profile-picture" src="glebun08.jpg">
+<img class="profile-picture" src="https://avatars.githubusercontent.com/u/89039577?s=400&u=34a4ae82646edfcd5de2c457af79e3fcc2d7a903&v=4">
 
 Здравия желаю господа, меня зовут Глеб и мне 17 лет.
 
