@@ -31,12 +31,12 @@ I like to animate more than create models.
 I love black and white styles.
 
 Atmosphere designer.  
-Mod collector version 1.20.1, to make it clearer, I know how to make builds for minecraft on version 1.20.1, knowing 200+ mods and which of them may conflict with each other.  
 And I don't always know how to put commas.  
 
 A fan of the classic Call of Duty Zombies.  
 A fan of Calamity mod.  
 A fan of the series Murder Drones, the character of V and Lizzie.
+A fan of [Yellow Fire](https://www.youtube.com/@YellowFire) and [Faradey](https://www.youtube.com/@FaraGames/).  
 
 ~~A little obsessed with projects~~
 
@@ -44,4 +44,4 @@ A fan of the series Murder Drones, the character of V and Lizzie.
 
 
 
-***(Updated 07.09.2025)***
+***(Updated 12.10.2025)***
