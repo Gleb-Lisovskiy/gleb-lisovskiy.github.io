@@ -18,7 +18,7 @@ is_contact: true
 - [Steam](https://steamcommunity.com/id/Glebun08)  
 - [Roblox](https://www.roblox.com/users/3574577262/profile)  
 
-- [Мой вики Фандом](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8) (Работа возобновлёна)
+- [Мой вики Фандом](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8)
 - [Мой творческий телеграм канал](https://t.me/glebstorage) (Скорее всего уже заброшен.)
 
 
