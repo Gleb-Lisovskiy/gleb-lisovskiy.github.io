@@ -33,7 +33,7 @@ layout: default
 
 Фанат классического Call of Duty Zombies.  
 Фанат Каламити мода.  
-Фанат сериала Murder Drones, персонажа V и Лиззи.
+Фанат сериала Murder Drones, персонажа V и Лиззи.  
 Фанат [Yellow Fire](https://www.youtube.com/@YellowFire) и [Фарадея](https://www.youtube.com/@FaraGames/).  
 
 ~~Немного одержим проектами~~

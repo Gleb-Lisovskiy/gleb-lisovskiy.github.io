@@ -35,7 +35,7 @@ And I don't always know how to put commas.
 
 A fan of the classic Call of Duty Zombies.  
 A fan of Calamity mod.  
-A fan of the series Murder Drones, the character of V and Lizzie.
+A fan of the series Murder Drones, the character of V and Lizzie.  
 A fan of [Yellow Fire](https://www.youtube.com/@YellowFire) and [Faradey](https://www.youtube.com/@FaraGames/).  
 
 ~~A little obsessed with projects~~
