@@ -13,7 +13,7 @@ layout: eng
 I wish you good health, gentlemen, my name is Gleb and I am 17 years old.
 
 I've been a regular programmer of the Mappet (JavaScript) mod for more than half a year in Minecraft.  
-I'm working on the project **The Madness Of Drones** and at the moment I'm making a realistic TacMove animation system.  
+I'm working on the project **The Madness Of Drones** and at the moment I'm making a realistic TacMove movement system.  
 TacMove has been under development for at least 3 months.  
 
 What else can I do:
@@ -22,7 +22,7 @@ What else can I do:
 * The drawing is 50/50. 
 
 I also really don't like quarrels and conflicts.  
-I prefer to work alone, but you can offer to help me.
+I prefer to work alone, but you can offer to help me (Russians speakers only).
 
 **I refuse to help you create with models, textures, and constructions.**
 
