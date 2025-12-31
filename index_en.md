@@ -24,6 +24,8 @@ What else can I do:
 I also really don't like quarrels and conflicts.  
 I prefer to work alone, but you can offer to help me (Russians speakers only).
 
+Sometimes, I often need psychological support.
+
 **I refuse to help you create with models, textures, and constructions.**
 
 ### Other information. 
