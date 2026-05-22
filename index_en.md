@@ -10,40 +10,30 @@ layout: eng
 
 **Please note that there may be problems with the translation.**
 
-I wish you good health, gentlemen, my name is Gleb and I am 17 years old.
+Hello, gentlemen, my name is Gleb and I'm 17 years old.
 
-I've been a regular programmer of the Mappet (JavaScript) mod for more than half a year in Minecraft.  
-I'm working on the project **The Madness Of Drones** and at the moment I'm making a realistic TacMove movement system.  
-TacMove has been under development for at least 3 months.  
+I'm a regular Mappet mod programmer (JavaScript), interested only in immersive experiences.
+I prefer to work alone, but you can offer to help me.
 
-What else can I do:
-* I can, but not as a pro, model in BlockBench.
-* I am good at animating, for example, models of Minecraft players.
-* The drawing is 50/50. 
+**I refuse to help with creating models, textures, or buildings from the Nazzy server.**
 
-I also really don't like quarrels and conflicts.  
-I prefer to work alone, but you can offer to help me (Russians speakers only).
+I enjoy suffering, and that's cool.
 
-Sometimes, I often need psychological support.
+I'm a crazy immersive gamer (meaning I fucking love realism).
 
-**I refuse to help you create with models, textures, and constructions.**
+I enjoy animating more than creating models.
 
-### Other information. 
-
-I like to animate more than create models.  
 I love black and white style.
 
-Atmosphere designer.  
-And I don't always know how to put commas.  
+Atmosphere designer, okay.
 
-A fan of the classic Call of Duty Zombies.  
-A fan of Calamity mod.  
-A fan of the Steven Universe series, characters Peridot and Garnet.  
-A fan of the series Murder Drones, characters of V and Lizzie.  
-A fan of [Yellow Fire](https://www.youtube.com/@YellowFire) and [Faradey](https://www.youtube.com/@FaraGames/).  
+And I'm also apparently incompetent at using commas.
 
-~~A little obsessed with projects~~
-
+Fan of classic Call of Duty Zombies.
+Calamity Mod fan.
+Steven Universe fan, Peridot and Garnet characters.
+Murder Drones fan, V character, and Lizzie fan.
+~~Latex fan))~~
 
 
 

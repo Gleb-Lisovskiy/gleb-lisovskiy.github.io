@@ -7,22 +7,21 @@ is_contact: true
 
 ## Контакт со мной
 
-- [Telegram](https://t.me/Glebun08)
-- [Discord](https://discordapp.com/users/805832764438872135 "Ник: Glebun08")
+- [Telegram](https://t.me/Kerilom)
+- [Discord](https://discordapp.com/users/805832764438872135 "Ник: Kerilom")
 
 
 
 ## Другие сайты
 
 - [Medal.tv](https://medal.tv/ru/u/Gleb_Lisovskiy2008?invite=ur-MSx5SnosMjg1NzMzNjY0LA)  
-- [Steam](https://steamcommunity.com/id/Glebun08)  
-- [Roblox](https://www.roblox.com/users/3574577262/profile)  
+- [Steam](https://steamcommunity.com/id/Kerilom)  
+- [Roblox](https://www.roblox.com/users/3574577262/profile) (Аккаунт сломался)
 
-- [Мой вики Фандом](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8)
-- [Мой творческий телеграм канал](https://t.me/glebstorage) (Скорее всего уже заброшен.)
+- [Мой творческий телеграм канал](https://t.me/glebstorage) (Заброшен.)
 
 
-# О проекте **Безумство Дронов**
+# О проекте **Безумство Дронов** (приостановлен)
 
 Это (полу-)масштабный фан проект режим в Minecraft, который с большим трудом разрабатывается.  
 Но на данный момент разрабатывается другой проект, который проще делать его.
@@ -38,5 +37,5 @@ is_contact: true
 
 
 
-***(Обновлёно 06.09.2025)***  
+***(Обновлёно 22.05.2026)***  
   

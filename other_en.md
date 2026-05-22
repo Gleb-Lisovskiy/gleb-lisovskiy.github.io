@@ -7,23 +7,22 @@ is_contact: true
 
 ## Contact me
 
-- [Telegram](https://t.me/Glebun08)
-- [Discord](https://discordapp.com/users/805832764438872135) ("Nickname: Glebun08")
+- [Telegram](https://t.me/Kerilom)
+- [Discord](https://discordapp.com/users/805832764438872135) ("Nickname: Kerilom")
 
 
 
 ## Other sites
 
 - [Medal.tv](https://medal.tv/ru/u/Gleb_Lisovskiy2008?invite=ur-MSx5SnosMjg1NzMzNjY0LA)  
-- [Steam](https://steamcommunity.com/id/Glebun08)  
-- [Roblox](https://www.roblox.com/users/3574577262/profile)  
+- [Steam](https://steamcommunity.com/id/Kerilom)  
+- [Roblox](https://www.roblox.com/users/3574577262/profile) (Account broked)
 
-- [My Wiki Fandom](https://the-madness-of-drones.fandom.com/ru/wiki/The_Madness_of_Drones_%D0%92%D0%B8%D0%BA%D0%B8)
-- [My creative telegram channel](https://t.me/glebstorage) (Most likely already abandoned.)
-
+- [My creative telegram channel](https://t.me/glebstorage) (Abandoned.)
 
 
-# About the project **The Madness of Drones**
+
+# About the project **The Madness of Drones** (suspended)
 
 This is a (semi-) large-scale fan project mode in Minecraft, which is being developed with great difficulty.  
 But at the moment, another project is being developed, which is easier to do it.
