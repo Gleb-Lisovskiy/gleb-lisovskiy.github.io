@@ -10,10 +10,7 @@ layout: eng
 
 **Please note that there may be problems with the translation.**  
 
-Hello, gentlemen, my name is Gleb and I'm 17 years old.  
-
-I'm a regular Mappet mod programmer (JavaScript), interested only in immersive experiences.  
-I prefer to work alone, but you can offer to help me.  
+Hello, gentlemen, my name is Gleb and I'm 17 years old.   
 
 **I refuse to help with creating models, textures, or buildings from the Nazzy server.**  
 
@@ -25,9 +22,7 @@ I enjoy animating more than creating models.
 
 I love black and white style.  
 
-Atmosphere designer, okay.  
-
-And I'm also apparently incompetent at using commas.  
+Atmosphere designer, okay.
 
 Fan of classic Call of Duty Zombies.  
 Calamity Mod fan.  
@@ -38,4 +33,4 @@ Murder Drones fan, V character, and Lizzie fan.
 
 
 
-***(Updated 05.02.2026)***
+***(Updated 06.09.2026)***
