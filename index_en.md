@@ -8,9 +8,11 @@ layout: eng
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/u/89039577?s=400&u=34a4ae82646edfcd5de2c457af79e3fcc2d7a903&v=4">
 
-**Please note that there may be problems with the translation.**  
+**Please note that there may be problems with the translation.**
 
-Hello, gentlemen, my name is Gleb and I'm 17 years old.   
+Hello, gentlemen, my name is Gleb and I'm 18 years old.   
+
+**And today is my birthday!**
 
 **I refuse to help with creating models, textures, or buildings from the Nazzy server.**  
 
@@ -33,4 +35,4 @@ Murder Drones fan, V character, and Lizzie fan.
 
 
 
-***(Updated 06.09.2026)***
+***(Updated 07.09.2026)***
